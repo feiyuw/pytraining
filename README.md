@@ -80,6 +80,7 @@ To view the presentations, just switch to the project directory, and execute `ip
 1. Unit Testing and TDD
     * use cyber-dojo http://cyber-dojo.org/
     * use TDD to implement read_int
+    * bowling game
 1. Iterator and Generator
     * mock command line system
 1. Run in parallel
