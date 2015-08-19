@@ -89,7 +89,9 @@ To view the presentations, just switch to the project directory, and execute `ip
     * Multi processing
     * Gevent
         * BBS like chating service
-1. Design patterns
+1. Web development basic
+1. Database related
+1. Design patterns (?)
     * Mixin
     * Singleton
     * Decorator
