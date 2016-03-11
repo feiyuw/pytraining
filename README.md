@@ -11,6 +11,9 @@ To view the presentations, just switch to the project directory, and execute `ip
 * Setup Python develop environment
 * "Hello World"
 * Use python as a calculator
+    * int
+    * float
+    * decimal
 * Format your letter
 * Find out valid LAN ip addresses
 * Get most active users from nginx access log
@@ -21,13 +24,29 @@ To view the presentations, just switch to the project directory, and execute `ip
 
 ### Outline
 
-* Introspection
 * Functional programming
+* Introspection
 * Unit Testing and TDD
 * Iterator and Generator
+    * communicate
 * Run in parallel
+    * Process
+    * Thread
+    * Micro Thread
+    * Data sharing
 * Web development basic
 * Database related
-* Design patterns (*)
 * Regrex Expression (*)
 * Meta Class (*)
+
+## Python Design Patterns
+
+### Outline
+
+* Borg
+* MapReduce
+* Decorator
+* Factory
+* Proxy
+* Mixin(*)
+* Visit(*)
